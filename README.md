@@ -78,7 +78,14 @@ app/
 
 ## 📱 Screenshots
 
-*Add screenshots of your app here after running it*
+<table>
+   <center>
+   <th><img src="splash-screen.png"</th>
+   <th><img src="login-page.png"></th>
+   <th><img src="signup-page.png"></th>
+   <th><img  src="successful-page.png"></th>
+   </center>
+</table>
 
 ## 🔧 Configuration
 
